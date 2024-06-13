@@ -16,6 +16,7 @@ A cada tentativa, o programa deve informar a quantidade de números corretos em 
 a quantidade de números corretos (ou seja que fazem parte da senha) em posição equivocada.
 
 Exemplo:
+
 Senha correta: 1 1 3 5
 Tentativa do usuário: 1 1 2 3
 Dígitos corretos: 2
