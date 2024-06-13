@@ -18,10 +18,6 @@ public class Main {
         for (int i = 0; i < 4; i++) {
             v[i] = random.nextInt(6) + 1;
         }
-        for (int i = 0; i < 4; i++) {
-            System.out.print(v[i] + " ");
-        }
-        System.out.println();
     }
 
     public static void jogo(int[] senhaUsu, int[] senhaComp, Scanner sc) {
